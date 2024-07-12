@@ -1,6 +1,6 @@
 # BlendPASS - Blending Panoramic Amodal Seamless Segmentation
 
-## Blendpass
+## BlendPASS
 TODO
 
 ## Evaluation
