@@ -1,8 +1,8 @@
 # BlendPASS - Blending Panoramic Amodal Seamless Segmentation
 
-## BlendPASS
+## BlendPASS [[PDF]](https://arxiv.org/pdf/2407.02182)
 Blending Panoramic Amodal Seamless Segmentation (BlendPASS) comprises an unlabeled training set of 2,000 panoramic images and a labeled test set of 100 panoramic images.
-These images are captured from panoramic cameras in driving scenes across 40 cities for the training set and 20 cities for the test set, all at a resolution of 2048X400 pixels. 
+These images are captured from panoramic cameras in driving scenes across 40 cities for the training set and 20 cities for the test set, all at a resolution of 2048x400 pixels. 
 
 We provide finely pixel-level annotations for five segmentation tasks (Semantic, Instance, Panoptic, Amodal Instance and Amodal Panoptic) related to OASS, which greatly extends the semantic labels from DensePASS. It is available at [Google Drive](https://drive.google.com/drive/folders/1t-dUjH4zeu4fBhtr6AbKULjnbSWKje0S?usp=sharing).
 
